@@ -17,6 +17,16 @@ ulifix
 
 ## Installation
 
+### Install via go install (recommended)
+
+```bash
+go install github.com/mkusaka/ulifix@latest
+```
+
+> Make sure your $GOPATH/bin (or $GOBIN) is in your $PATH.
+
+### Manual build
+
 ```bash
 # Clone the repository
 git clone https://github.com/mkusaka/ulifix.git
